@@ -1,6 +1,6 @@
 # Braedin Butler
 ## Portfolio
-## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/glydrfreak/BraedinButler/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,8 +24,8 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<img src="https://github.com/glydrfreak/vSpeed-Vario/blob/master/Images/vspeedMini2.jpg" width=250>
+[Link](url) and ![Image](src="https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.jpg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
