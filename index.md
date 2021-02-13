@@ -40,4 +40,5 @@ Starting out as a volunteer for this open source project, I designed and assembl
 #### Open Source Flight Instrument
 During the summer of 2017, I caught the electronics bug. I found a passion for designing circuit boards and seeing them come to life after uploading code. I began learning everything I could about electronics and designing circuit boards, mostly from watching YouTube. I couldn't believe how much I learned. Later that summer, I produced several prototypes of an open source variometer for paragliding. A variometer is a flight instrument that indicates whether the aircraft is gaining altitude or losing altitude, which is extremely helpful for sports like paragliding and hang gliding. The variometer I created is the most affordable bluetooth enabled variometer on the market.
 
-![Vario](./vario_smaller.png)
+![Vario](./vario_smaller.png) ![Para360](./paragliding360crop.png)
+![VarioBRD](./vario_brd_smaller.png)
