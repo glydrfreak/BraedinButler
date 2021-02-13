@@ -16,4 +16,4 @@ Designed and built a working prototype, both the circuit board and the injection
 #### Paramotor Smoke System
 Image of me test flying the smoke system prototype I designed and built.
 
-![Smoke](./smoke_system.png) ![Smoke2](./smoke_system2.png)
+![Smoke2](./smoke_system2_small.png) ![Smoke](./smoke_system_small.png) 
