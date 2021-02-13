@@ -5,7 +5,7 @@
 ![Profile Picture](./IMG_1514_smaller.png)
 
 
-### PPG Smoke LLC
+## PPG Smoke LLC
 ##### February 2020 - Present
 ### Project Leader, Computer Engineer, and Mechanical Engineer
 #### Active Noise Cancelling Headset
@@ -18,7 +18,7 @@ Image of me test flying the smoke system prototype I designed and built. I desig
 
 ![Smoke2](./smoke_system2_smaller.png) ![Smoke](./smoke_system_smaller.png) 
 
-### Autoliv
+## Autoliv
 ##### May 2019 - October 2019
 ### Process Engineer Summer Intern
 #### High precision tablet measuring device
@@ -26,7 +26,7 @@ This device automatically measures the thickness of explosive tablets used in ai
 
 ![Checkmaster](./checkmaster_smaller.png)
 
-### OpenPPG
+## OpenPPG
 ##### December 2017 - Present
 ### Hardware and Firmware Engineer
 #### Electric Paramotor Throttle Controller
