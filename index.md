@@ -7,6 +7,8 @@ You can use the [editor on GitHub](https://github.com/glydrfreak/BraedinButler/e
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+![Profile Picture](./IMG_1514.jpg)
+Format: ![Alt Text](https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.jpg)
 <img src="https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.jpg" width=250>
 [Link](url) and ![Image](<img src="./IMG_1514.jpg">)
 
