@@ -25,3 +25,11 @@ Image of me test flying the smoke system prototype I designed and built. I desig
 This device automatically measures the thickness of explosive tablets used in airbag systems. Since the geometry of each tablet is critical for controling burn rate, tablets must be held to a tight tolerance. this device had issues of imprecise measurements due to play in the mechanical parts. I was hired as an intern to fix this issue. I designed new parts that had zero play and I implemented a way to easily adjust and calibrate the machine.
 
 ![Checkmaster](./checkmaster.png)
+
+### OpenPPG
+##### December 2017 - Present
+### Hardware and Firmware Engineer
+#### Electric Paramotor Throttle Controller
+Starting out as a volunteer for this open source project, I designed and assembled a circuit board that communicates with and electronic speed controller for an electric paramotor. The throttle has a screen that displays telemetry data collected from the paramotor such as battery level, RPM, electrical current, battery temperature, and altitude. I also wrote the firmware for the throttle controller, packed full of useful features like beginner and expert mode, cruise control, and vibration feedback for warning the pilot of low battery or a hot speed controller. My skills with electronics and PCB design are completely self taught.
+
+![throttle](./throttle_smaller.png) ![throttlePCB](./throttle_pcb_smaller.png)
