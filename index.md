@@ -9,11 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 ![Profile Picture](./IMG_1514.png)
 
-Format: ![Alt Text]("https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.jpg")
+Format: ![Alt Text]("https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.png")
 
-<img src="https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.jpg" width=250>
+<img src="https://github.com/glydrfreak/BraedinButler/blob/gh-pages/IMG_1514.png" width=250>
 
-[Link](url) and ![Image](<img src="./IMG_1514.jpg">)
+[Link](url) and ![Image](<img src="./IMG_1514.png">)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
