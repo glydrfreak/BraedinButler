@@ -12,3 +12,8 @@
 Designed and built a working prototype, both the circuit board and the injection molded housing.
 
 ![ANC Headset](./headset_render.png)
+
+#### Paramotor Smoke System
+Image of me test flying the smoke system prototype I designed and built.
+
+![Smoke](./smoke_system.png) ![Smoke2](./smoke_system2.png)
