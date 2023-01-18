@@ -2,11 +2,19 @@
 ## Mechanical/Aerospace Engineer
 ### Engineering Portfolio 
 
-![Profile Picture](./IMG_1514_smaller.png)
+![Profile Picture](./IMG_1514_smaller(2).png)
+
+
+## Paramotor Cutaway System
+I designed, assembled, and tested a system to jettison the main paraglider to automatically extract a reserve parachute. The front-mount parachute container was completely scratch built and sewn by me. This is a much more reliable rescue system compared to traditional systems. This has saved my life already in a real emergency scenario, which makes this the project I am most proud of.
+
+![Cutaway](./Cutaway3small.png) ![Cutaway2](./Cutaway5small.png) 
+
+![Cutaway3](./IMG_7521small.png) ![Cutaway4](./IMG_7522small.png) 
 
 
 ## PPG Smoke LLC
-##### February 2020 - Present
+##### February 2020 - February 2022
 ### Project Leader, Computer Engineer, and Mechanical Engineer
 #### Active Noise Cancelling Headset
 I designed and built a working prototype of an active noise cancelling headset, both the circuit board and the injection molded housing. This headset allows for communication via bluetooth phone call and aviation radio during flight. The headset offers active and passive hearing protection, which is especially helpful while operating loud aircraft.
@@ -29,6 +37,12 @@ This device automatically measures the thickness of explosive tablets used in ai
 ## OpenPPG
 ##### December 2017 - Present
 ### Hardware and Firmware Engineer
+
+#### Paramotor Swing Arms
+There are few people in the acrobatic paramotor community, so there are few options of swing arms that are strong enough to withstand the G-forces of acrobatic maneuvers. Certain maneuvers can deliver up to 8 G, which would be enough force to bring standard swing arms to failure. I helped design new swing arms and ran structural analysis to ensure the new swing arms were strong enough to resist fatigue.
+
+![ArmFEA](./ARM_1.32_FEA_small.png)
+
 #### Electric Paramotor Throttle Controller
 Starting out as a volunteer for this open source project, I designed and assembled a circuit board that communicates with an electronic speed controller for an electric paramotor. The throttle has a screen that displays telemetry data collected from the paramotor such as battery level, RPM, electrical current, battery temperature, and altitude. I also wrote the firmware for the throttle controller, packed full of useful features like beginner and expert mode, cruise control, and vibration feedback for warning the pilot of low battery or a hot speed controller. My skills with electronics and PCB design are completely self taught.
 
